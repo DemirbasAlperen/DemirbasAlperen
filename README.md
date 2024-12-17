@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Alperen Demirbaş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on ** Full Stack Web Developer **
+- 🔭 I’m currently working on **Full Stack Web Developer**
 
-- 🌱 I’m currently learning ** HTML, Css, BootStrap, JavaScript, JQuery, C#, MsSql, .Net Core **
+- 🌱 I’m currently learning **HTML, Css, BootStrap, JavaScript, JQuery, C#, MsSql, .Net Core**
 
 - 📫 How to reach me **alperendmrbs38@gmail.com**
 
